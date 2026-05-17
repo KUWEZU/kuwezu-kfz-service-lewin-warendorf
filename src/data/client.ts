@@ -1,6 +1,6 @@
 /**
  * client.ts — Automatisch generiert von KUWEZU
- * Erstellt: 2026-05-17T12:43:38.790Z
+ * Erstellt: 2026-05-17T12:51:45.704Z
  * Kundennummer: 68
  *
  * Alle Texte, Bilder und Einstellungen werden hier gepflegt.
@@ -11,7 +11,7 @@ export const client = {
   name: "KFZ Service Lewin",
   branche: "Autowerkstatt",
   ort: "Warendorf",
-  slogan: "mit Herz",
+  slogan: "mit Durchblick",
   adresse: "Am Hartsteinwerk 1, 48231 Warendorf",
   telefon: "02581 7899747",
   email: "",
@@ -27,11 +27,11 @@ export const client = {
   },
   // ── Hero ───────────────────────────────────────────────────────────────────
   hero: {
-    bild: "https://images.pexels.com/photos/2244746/pexels-photo-2244746.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    bild: "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=1600",
     overlayOpacity: 0.55, /* fix — nie schwächer, nie überschreibbar */
-    ueberschrift: "Ihre Autowerkstatt in Warendorf mit Herz",
-    ueberschriftHighlight: "mit Herz",
-    untertext: "Von Bremsen über Autoglas bis zur Achsvermessung – KFZ Service Lewin ist Ihr verlässlicher Partner für alle Reparaturen.",
+    ueberschrift: "Ihre Autowerkstatt in Warendorf mit Durchblick",
+    ueberschriftHighlight: "mit Durchblick",
+    untertext: "Bremsen, Autoglas und Achsvermessung – schnell, präzise und zu fairen Preisen. Ihr Fahrzeug in den besten Händen.",
     ctaPrimary: { text: "Termin vereinbaren", href: "#kontakt" },
     ctaSecondary: { text: "Leistungen ansehen", href: "#leistungen" },
   },
@@ -39,10 +39,10 @@ export const client = {
   // ── Über uns ───────────────────────────────────────────────────────────────
   ueberUns: {
     bild: "https://images.pexels.com/photos/4489794/pexels-photo-4489794.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    ueberschrift: "Ihre Werkstatt mit Kompetenz in Warendorf",
-    text1: "KFZ Service Lewin steht seit Jahren für zuverlässige Kfz-Reparaturen in Warendorf. Unser erfahrenes Team kümmert sich um Bremsenwartung, Autoglas-Reparaturen und präzise Achsvermessungen. Wir arbeiten herstellerunabhängig und betreuen Fahrzeuge aller Marken mit modernster Werkstatttechnik.",
-    text2: "Faire Preise, ehrliche Beratung und termingerechte Arbeit – darauf können Sie sich bei uns verlassen. Wir nehmen uns Zeit für Ihre Anliegen und erklären jeden Arbeitsschritt verständlich.",
-    tags: ["Meisterbetrieb", "Alle Marken", "Faire Preise", "Seit Jahren in Warendorf"],
+    ueberschrift: "KFZ Service Lewin – Ihre Werkstatt in Warendorf",
+    text1: "Seit Jahren steht KFZ Service Lewin in Warendorf für zuverlässige Autowerkstatt-Leistungen. Unser Schwerpunkt liegt auf Bremsenwartung, Autoglasreparatur und präziser Achsvermessung. Wir arbeiten mit moderner Technik und sorgen dafür, dass Ihr Fahrzeug sicher und verkehrstüchtig bleibt.",
+    text2: "Ehrliche Beratung und transparente Preise sind für uns selbstverständlich. Wir nehmen uns Zeit für Ihre Anliegen und finden praktische Lösungen – ohne unnötige Umwege.",
+    tags: ["Markenunabhängig", "Faire Preise", "Schnelle Termine", "Moderne Technik"],
     stats: [
       { value: "10+",    label: "Jahre Erfahrung"   },
       { value: "1.000+", label: "Zufriedene Kunden" },
@@ -57,22 +57,22 @@ export const client = {
       slug: "bremsen",
       title: "Bremsen",
       bild: "https://r2.kuwezu.de/bibliothek/Bremsen/1777878346158-bremsen_service.webp",
-      description: "Funktionierende Bremsen sind lebenswichtig. Wir prüfen, warten und erneuern Bremsbeläge, Bremsscheiben und die gesamte Bremsanlage fachgerecht und zuverlässig.",
-      highlights: ["Bremsbeläge & Bremsscheiben", "Bremsflüssigkeitswechsel", "Elektronische Bremsprüfung"],
+      description: "Funktionierende Bremsen sind lebenswichtig. Wir prüfen, warten und reparieren Ihre Bremsanlage fachgerecht – von Bremsbelägen bis zur kompletten Bremsflüssigkeit.",
+      highlights: ["Bremsbeläge & Bremsscheiben", "Bremsflüssigkeitswechsel", "Elektronische Bremsdiagnose"],
     },
     {
       slug: "autoglas",
       title: "Autoglas",
       bild: "https://r2.kuwezu.de/bibliothek/Autoglas/1777829664081-autoglas_reparatur.webp",
-      description: "Steinschlag oder Riss in der Scheibe? Wir reparieren kleinere Schäden professionell oder tauschen Ihre Autoscheibe schnell und sauber aus.",
-      highlights: ["Steinschlag-Reparatur", "Scheibentausch alle Marken", "Direkte Versicherungsabrechnung"],
+      description: "Steinschlag oder Riss in der Scheibe? Wir reparieren kleine Schäden schnell und kostengünstig oder tauschen Ihr Autoglas professionell aus – direkt mit Ihrer Versicherung abrechenbar.",
+      highlights: ["Steinschlagreparatur", "Scheibenaustausch aller Marken", "Versicherungsabwicklung"],
     },
     {
       slug: "achsvermessung",
       title: "Achsvermessung",
       bild: "https://r2.kuwezu.de/bibliothek/Achsvermessung/1777878369186-leistung_achsvermessung.webp",
-      description: "Eine exakte Achsvermessung spart Sprit, schont die Reifen und erhöht die Fahrsicherheit. Wir vermessen computergestützt und stellen präzise ein.",
-      highlights: ["3D-Achsvermessung", "Spureinstellung", "Fahrwerks-Check"],
+      description: "Eine präzise Achsvermessung sorgt für optimalen Geradeauslauf, gleichmäßigen Reifenverschleiß und sicheres Fahrverhalten. Mit computergestützter Technik stellen wir Ihr Fahrwerk exakt ein.",
+      highlights: ["3D-Achsvermessung", "Fahrwerkseinstellung", "Reifenverschleiß minimieren"],
     }
   ],
 
