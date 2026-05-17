@@ -1,1 +1,39 @@
-{"averageRating":null,"totalCount":0,"source":"Google","fetchedAt":"","reviews":[]}
+{
+  "averageRating": 4.9,
+  "totalCount": 130,
+  "source": "Google",
+  "fetchedAt": "2026-05-17T12:26:30.857Z",
+  "reviews": [
+    {
+      "author": "Manfred Wolff",
+      "rating": 5,
+      "text": "Bei der KFZ-Werkstatt LEWIN wurden meine beiden HELLA-Zusatzfernscheinwerfer in der vergangenen Woche fachgerecht am Bullenfänger meines Pössl montiert und sauber elektrisch angeschlossen. Die Arbeiten erfolgten zügig, technisch einwandfrei und sehr zuverlässig.\nBesonders hervorheben möchte ich zudem die freundliche und angenehme Kommunikation im Büro.\nKlare Empfehlung!",
+      "date": "vor 2 Monaten"
+    },
+    {
+      "author": "Henriette Holland-Merten",
+      "rating": 5,
+      "text": "Unser Oldi-Wohnmobil ist dort in Betreuung. Super netter Umgang - vom Empfang am Tresen bis hin zur Motorhaube. Absolut fair. Ein Mann, ein Wort. Alle Probleme werden souverän gelösen. Hervorzuheben ist, dass ohne viel Gerede sofort erkannt wurde, dass wir mit viel Herzblut an unserem Oldi hängen. Auch diese Sorge wurde uns kurzerhand genommen und das selige Gefühl hinterlassen, wirklich gut auf ihn aufzupassen. Menschlich ebenfalls - absolut erstklassig. Einen besseren Service gibt es nicht!",
+      "date": "vor 4 Monaten"
+    },
+    {
+      "author": "Oktay Ciftci",
+      "rating": 5,
+      "text": "Ich bin absolut zufrieden mit dieser Werkstatt! Der Service ist schnell, zuverlässig und preiswert. Genau so, wie man es sich wünscht. Besonders positiv: Es wird offen und ehrlich kommuniziert. Bei der Durchsicht angesprochene Punkte werden transparent erklärt, selbst wenn sie zusätzlichen Aufwand bedeuten. In anderen Werkstätten wird sowas oft verschwiegen, um sich Arbeit zu sparen, aber hier nicht! Man merkt, dass hier mit Verantwortung und Fachwissen gearbeitet wird. Ich komme gerne wieder und kann die Werkstatt nur weiterempfehlen!",
+      "date": "vor 11 Monaten"
+    },
+    {
+      "author": "Ronny Sulek",
+      "rating": 5,
+      "text": "Bin in WAF am Parkplatz Ortseingang mit meinem Jeep Compass hängengeblieben.Herr Lewin kam nach ca. 10 Minuten mit seinem Booster[Ladegerät] und überbrückt die Batterie.Danke nochmal für die schnelle Hilfe!\nBeste Grüße aus Münster",
+      "date": "vor 7 Monaten"
+    },
+    {
+      "author": "C R",
+      "rating": 5,
+      "text": "Die Werkstatt meines Vertrauens. Immer ehrlich und machen sehr gute Arbeit. Vielen Dank für den immer guten Service! Weiter so",
+      "date": "vor 8 Monaten"
+    }
+  ],
+  "_debug": "gmb-import"
+}

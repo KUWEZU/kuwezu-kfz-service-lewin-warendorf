@@ -11,13 +11,20 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "KUWEZU | Professionelle Kfz-Werkstatt",
-  description: "Ihre Kfz-Werkstatt für alle Leistungen. Qualität und Transparenz.",
+  title: "KFZ Service Lewin – Autowerkstatt Warendorf",
+  description: "Bremsen, Autoglas & Achsvermessung in Warendorf. Faire Preise, ehrliche Beratung, alle Marken. Jetzt Termin vereinbaren beim KFZ Service Lewin!",
   openGraph: {
-    title: "KUWEZU | Professionelle Kfz-Werkstatt",
-    description: "Ihre zuverlässige Kfz-Werkstatt.",
+    title: "KFZ Service Lewin – Autowerkstatt Warendorf",
+    description: "Bremsen, Autoglas & Achsvermessung in Warendorf. Faire Preise, ehrliche Beratung, alle Marken. Jetzt Termin vereinbaren beim KFZ Service Lewin!",
     type: "website",
     locale: "de_DE",
+  },
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "32x32", type: "image/x-icon" },
+      { url: "/logo.png", type: "image/png" },
+    ],
+    apple: "/logo.png",
   },
 };
 
