@@ -11,11 +11,11 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "KFZ Service Lewin – Autowerkstatt Warendorf",
-  description: "Bremsen, Autoglas & Achsvermessung in Warendorf. Schnelle Termine, faire Preise, kompetente Beratung. Jetzt Termin vereinbaren bei KFZ Service Lewin!",
+  title: "KFZ Service Lewin Warendorf – Bremsen, Autoglas & mehr",
+  description: "Professionelle Autowerkstatt in Warendorf ✓ Bremsenservice ✓ Autoglas ✓ Achsvermessung. Faire Preise & Qualität. Jetzt Termin vereinbaren!",
   openGraph: {
-    title: "KFZ Service Lewin – Autowerkstatt Warendorf",
-    description: "Bremsen, Autoglas & Achsvermessung in Warendorf. Schnelle Termine, faire Preise, kompetente Beratung. Jetzt Termin vereinbaren bei KFZ Service Lewin!",
+    title: "KFZ Service Lewin Warendorf – Bremsen, Autoglas & mehr",
+    description: "Professionelle Autowerkstatt in Warendorf ✓ Bremsenservice ✓ Autoglas ✓ Achsvermessung. Faire Preise & Qualität. Jetzt Termin vereinbaren!",
     type: "website",
     locale: "de_DE",
   },
